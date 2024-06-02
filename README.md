@@ -43,3 +43,24 @@ To run this project, you will need the following Python libraries:
 You can install these libraries using pip:
 ```bash
 pip install requests beautifulsoup4 pandas
+```
+
+## **Usage**
+1- Clone the repository:
+```bash
+git clone https://github.com/Eugeo101/Wuzzuf-Data-Collection
+cd Wuzzuf-Data-Collection
+```
+
+2- Run the scraper script:
+```bash
+python scraper.py
+```
+
+3- The script will send requests to wuzzuf.com, parse the HTML response using BeautifulSoup, and handle various edge cases to ensure accurate data extraction.
+
+## **Output**
+The output will be a CSV file named data_science_jobs.csv containing all the scraped job listings with the specified columns.
+
+## **License**
+This project is licensed under the MIT License. See the LICENSE file for details.
