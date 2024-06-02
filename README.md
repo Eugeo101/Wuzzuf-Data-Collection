@@ -63,4 +63,4 @@ python scraper.py
 The output will be a CSV file named data_science_jobs.csv containing all the scraped job listings with the specified columns.
 
 ## **License**
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Eugeo101/Wuzzuf-Data-Collection/blob/main/LICENSE) file for details.
